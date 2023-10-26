@@ -13,15 +13,10 @@ The AES Image Encryption System is a software application that allows users to e
 
 ## Installation
 
-1. Clone or download the AES Image Encryption System repository from [GitHub](https://github.com/your-repo-url).
+1. Clone or download the AES Image Encryption System repository from [GitHub](https://github.com/Nitesh544/AES-Image-Encryption-System).
 2. Ensure you have Python 3.6 or higher installed on your system.
-3. Install the required dependencies by running the following command:
-
-   ```shell
-   pip install -r requirements.txt
-
-1. To run the code, any python ide can be used like pycharm, juypter notebook, google collab.  
-2. Following Libraries need to installed before running the python code  
+3. To run the code, any python ide can be used like pycharm, juypter notebook, google collab.  
+4. Following Libraries need to installed before running the python code  
   a. Dlib (The dlib library should be installed using this link: http://dlib.net/compile.html)  
 	b. Scipy  
 	c. OpenCv  
@@ -29,4 +24,4 @@ The AES Image Encryption System is a software application that allows users to e
 	e. Imutils  
 	f. pyglet  
 	g. argparse  
-3. Python version above 3.6 can be used.  
+
