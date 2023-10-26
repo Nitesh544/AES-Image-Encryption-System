@@ -1,9 +1,24 @@
-# Image Encryption using AES Algorithm  
-❖ To study the working of AES algorithm.  
-❖ To Encrypt and then decrypt a digital image using
-AES algorithm using python modules.  
-❖ To observe and analyse different modes of AES
-encryption and decryption.  
+# AES Image Encryption System Readme
+
+## Introduction
+
+The AES Image Encryption System is a software application that allows users to encrypt and decrypt images using the Advanced Encryption Standard (AES) algorithm. This system provides a secure and efficient way to protect sensitive image data from unauthorized access.
+
+## Features
+
+- **AES Encryption**: Utilizes the AES algorithm for robust encryption of image files.
+- **Image Compatibility**: Supports various image formats, including JPEG, PNG, BMP, and more.
+- **Encryption Key**: Allows users to specify an encryption key for added security.
+- **Decryption**: Users can decrypt the encrypted images using the same key.
+
+## Installation
+
+1. Clone or download the AES Image Encryption System repository from [GitHub](https://github.com/your-repo-url).
+2. Ensure you have Python 3.6 or higher installed on your system.
+3. Install the required dependencies by running the following command:
+
+   ```shell
+   pip install -r requirements.txt
 
 1. To run the code, any python ide can be used like pycharm, juypter notebook, google collab.  
 2. Following Libraries need to installed before running the python code  
